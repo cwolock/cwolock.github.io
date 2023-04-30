@@ -52,16 +52,15 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ---
 
-### Forensic genetics
+### Other scientific collaborations
 
-1. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
-
-2. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, **Wolock CJ**, Zhao E, Kingston H, Zolandz T. [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) *Forensic Science International: Reports* (2022). 
-
----
-
-### Geology
 
 1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT. [Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation.](https://www.nature.com/articles/nature14589) *Nature* (2015).
+
+2. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
+
+3. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, **Wolock CJ**, Zhao E, Kingston H, Zolandz T. [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) *Forensic Science International: Reports* (2022). 
+
+4. Kohn MD, **Wolock CJ**, Poulson IJ, Fernando ND. [A meta-analysis of postoperative outcomes of patients with and without chronic hepatitis C undergoing primary total hip or knee arthroplasty](https://eor.bioscientifica.com/view/journals/eor/8/4/EOR-22-0117.xml) *EFORT Open Reviews* (2023).
 
 ---
