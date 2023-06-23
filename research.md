@@ -50,7 +50,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 2. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15993) *Microbial Ecology* (2022). 
 
-3. Bittleston, LS, **Wolock CJ\***, Maeda J, Infante V, Ané JM, Pierce NE, Pringle A. [Canivorous *Nepenthes* Pitchers with Less Acidic Fluid House Nitrogen-Fixing Bacteria.](https://journals.asm.org/doi/10.1128/aem.00812-23) *Applied and Environmental Microbiology* (2023). \*Equal contribution
+3. Bittleston, LS\*, **Wolock CJ\***, Maeda J, Infante V, Ané JM, Pierce NE, Pringle A. [Canivorous *Nepenthes* Pitchers with Less Acidic Fluid House Nitrogen-Fixing Bacteria.](https://journals.asm.org/doi/10.1128/aem.00812-23) *Applied and Environmental Microbiology* (2023). \*Equal contribution
 
 ---
 
