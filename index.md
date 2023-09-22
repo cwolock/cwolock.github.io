@@ -38,21 +38,17 @@ layout: default
         </div>
         <div class="second-column">
             <h2>Welcome to my research page!</h2>
-            <p>I'm a PhD student in Biostatistics at the <a href = "http://biostat.washington.edu">Department of Biostatistics</a> at the University of Washington. 
+            <p>I'm a postdoctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, working with Dr. Yong Chen. I received my PhD in August 2023 from the Department of Biostatistics at the University of Washington, where I was advised by Dr. Marco Carone and Dr. Noah Simon. Before my PhD, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish, and worked as a research associate at the Institute for Genomic Medicine at Columbia University.
             <br/>
             <br/>
-            Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish. 
-            I was a research associate at the <a href = "http://igm.columbia.edu">Institute for Genomic Medicine</a> at Columbia University.
-            <br/>
-            <br/>
-            I am advised by <a href = "https://faculty.washington.edu/nrsimon/">Dr. Noah Simon</a> and <a href = "http://faculty.washington.edu/mcarone/about.html">Dr. Marco Carone</a>. We are 
-            developing nonparametric methods for survival analysis. My collaborative projects include work in conservation biology, microbial ecology, and genomic medicine.  
-            My research is supported by an NSF Graduate Research Fellowship. 
+            My research is focused on 
+             nonparametric methods and machine learning, with applications in survival analysis. My collaborative projects include work in conservation biology, microbial ecology, and genomic medicine.  
+            My dissertation work was supported by an NSF Graduate Research Fellowship. 
             <hr>
             <b>Contact/Links</b>
             <br/>
             <br/>
-            cwolock[at]uw[dot]edu
+            cwolock[at]upenn[dot]edu
             <ul>
             <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
             <li><a href = "https://github.com/cwolock">GitHub</a></li>
