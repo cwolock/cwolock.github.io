@@ -42,8 +42,7 @@ layout: default
             <br/>
             <br/>
             My research is focused on 
-             nonparametric methods and machine learning, with applications in survival analysis. My collaborative projects include work in conservation biology, microbial ecology, and genomic medicine.  
-            My dissertation work was supported by an NSF Graduate Research Fellowship. 
+             nonparametric methods and machine learning, with applications in survival analysis. Prior and ongoing collaborative projects include work in conservation biology, microbial ecology, and genomic medicine. My dissertation work was supported by an NSF Graduate Research Fellowship. 
             <hr>
             <b>Contact/Links</b>
             <br/>
