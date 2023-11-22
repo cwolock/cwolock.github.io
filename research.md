@@ -24,6 +24,8 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 3. Chen YT, Williamson BD, Okonek T, **Wolock CJ**, Spieker AJ, Hee Wai TY, Hughes JP, Emerson SS, Willis AD. [`rigr`: Regression, Inference, and General Data Analysis Tools in R.](https://joss.theoj.org/papers/10.21105/joss.04847) *The Journal of Open Source Software* (2022). 
 
+4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Nonparametric variable importance for time-to-event outcomes with application to prediction of HIV infection.](https://arxiv.org/abs/2311.12726)
+
 ---
 
 ### Genomic medicine
