@@ -20,9 +20,9 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 1. Bansal A, Heagerty PJ, Inoue LYT, Veenstra DL, **Wolock CJ**, Basu A. [A Value of Information Framework for Personalizing the Timing of Surveillance Testing.](https://journals.sagepub.com/doi/abs/10.1177/0272989X211049213) *Medical Decision Making* (2021). 
 
-2. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://arxiv.org/abs/2211.03031)
+2. Chen YT, Williamson BD, Okonek T, **Wolock CJ**, Spieker AJ, Hee Wai TY, Hughes JP, Emerson SS, Willis AD. [`rigr`: Regression, Inference, and General Data Analysis Tools in R.](https://joss.theoj.org/papers/10.21105/joss.04847) *The Journal of Open Source Software* (2022). 
 
-3. Chen YT, Williamson BD, Okonek T, **Wolock CJ**, Spieker AJ, Hee Wai TY, Hughes JP, Emerson SS, Willis AD. [`rigr`: Regression, Inference, and General Data Analysis Tools in R.](https://joss.theoj.org/papers/10.21105/joss.04847) *The Journal of Open Source Software* (2022). 
+3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://arxiv.org/abs/2211.03031) To appear in *Journal of Computational and Graphical Statistics*. 
 
 4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Nonparametric variable importance for time-to-event outcomes with application to prediction of HIV infection.](https://arxiv.org/abs/2311.12726)
 
