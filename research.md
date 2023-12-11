@@ -32,7 +32,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 1. Raghavan NS, Brickman AM, Andrew H, Manly JJ, Schupf N, Lantigua R, The Alzheimer's Disease Sequencing Project, **Wolock CJ**, Kamalakaran S, Petrovski S, Tosto G, Vardarajan BN, Goldstein DB, Mayeux R. [Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6043775/) *Annals of Clinical and Translational Neurology* (2018).
 
-2. Hayeck TJ, Stong N, **Wolock CJ**, Copeland B, Kamalakaran S, Goldstein DB, Allen AS. [Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance.](https://www.sciencedirect.com/science/article/pii/S0002929718305032) *American Journal of Human Genetics* (2019)
+2. Hayeck TJ, Stong N, **Wolock CJ**, Copeland B, Kamalakaran S, Goldstein DB, Allen AS. [Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance.](https://www.sciencedirect.com/science/article/pii/S0002929718305032) *American Journal of Human Genetics* (2019).
 
 3. **Wolock CJ**, Stong N, Ma F, Nagasaki T, Lee W, Tsang SH, Kamalakaran S, Goldstein DB, Allikmets R. [A case-control collapsing analysis identifies retinal dystrophy genes associated with ophthalmic disease in patients with no pathogenic *ABCA4* mutations.](https://www.nature.com/articles/s41436-019-0495-0) *Genetics in Medicine* (2019). 
 
