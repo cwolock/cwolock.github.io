@@ -51,7 +51,6 @@ layout: default
             <ul>
             <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
             <li><a href = "https://github.com/cwolock">GitHub</a></li>
-            <li><a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a></li>
             </ul>
             <hr>
             </p> 
