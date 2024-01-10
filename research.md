@@ -22,9 +22,9 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 2. Chen YT, Williamson BD, Okonek T, **Wolock CJ**, Spieker AJ, Hee Wai TY, Hughes JP, Emerson SS, Willis AD. [`rigr`: Regression, Inference, and General Data Analysis Tools in R.](https://joss.theoj.org/papers/10.21105/joss.04847) *The Journal of Open Source Software* (2022). ([R package](https://github.com/statdivlab/rigr))
 
-3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://arxiv.org/abs/2211.03031) To appear in *Journal of Computational and Graphical Statistics*. ([R package](https://github.com/cwolock/survML)) ([code for paper](https://github.com/cwolock/stack_supplementary)) 
+3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://doi.org/10.1080/10618600.2024.2304070) *Journal of Computational and Graphical Statistics* (2024). ([preprint](https://arxiv.org/abs/2211.03031)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/stack_supplementary)) 
 
-4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Nonparametric variable importance for time-to-event outcomes with application to prediction of HIV infection.](https://arxiv.org/abs/2311.12726) Under review. ([R package](https://github.com/cwolock/survML)) ([code for paper](https://github.com/cwolock/surv_vim_supplementary)) 
+4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Nonparametric variable importance for time-to-event outcomes with application to prediction of HIV infection.](https://arxiv.org/abs/2311.12726) Under review. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
 
 ---
 
@@ -61,7 +61,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT. [Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation.](https://www.nature.com/articles/nature14589) *Nature* (2015).
 
-2. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). ([code for paper](https://github.com/cwolock/elephant_fam_match))
+2. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). ([code](https://github.com/cwolock/elephant_fam_match))
 
 3. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, **Wolock CJ**, Zhao E, Kingston H, Zolandz T. [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) *Forensic Science International: Reports* (2022). 
 
