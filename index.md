@@ -36,8 +36,7 @@ layout: default
             <img src="prof_pic.jpg" style="width:250px">
             
         </div>
-        <div class="second-column">
-            <h2>Welcome to my research page!</h2>
+    <div class="second-column"> 
             <p>I'm a postdoctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, working with Dr. Yong Chen. I received my PhD in August 2023 from the Department of Biostatistics at the University of Washington, where I was advised by Dr. Marco Carone and Dr. Noah Simon. Before my PhD, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish, and worked as a research associate at the Institute for Genomic Medicine at Columbia University.
             <br/>
             <br/>
