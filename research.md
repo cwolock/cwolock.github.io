@@ -26,7 +26,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Nonparametric variable importance for time-to-event outcomes with application to prediction of HIV infection.](https://arxiv.org/abs/2311.12726) Under review. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
 
-5. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under reivew. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
+5. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
 ---
 
