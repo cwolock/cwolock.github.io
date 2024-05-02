@@ -32,7 +32,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ### Health systems
 
-1. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. Importance of variables from different time frames for predicting self-harm using health system data. Under review. 
+1. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Under review. 
 
 ---
 
