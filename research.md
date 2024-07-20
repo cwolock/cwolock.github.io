@@ -15,6 +15,8 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ## Papers
 
+An asterisk (\*) denotes equal contribution.
+
 ---
 
 ### Statistical methodology and software
@@ -29,13 +31,15 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 5. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
-6. **Wolock CJ**, Jacob S, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) Under review. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
+6. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) Under review. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
 
 ---
 
-### Health systems
+### Mental health
 
-1. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Under review. 
+1. Kennedy CJ, Kearns JC, Geraci JC, Gildea SM, Hwang IH, King AJ, Liu H, Luedtke A, Marx BP, Panini S, Petukhova MV, Sampson NA, Smoller JW, **Wolock CJ**, Zainal HN, Stein MB, Ursano RJ, Kessler RC (2024). Predicting post-transition suicides among U.S. Army soldiers transitioning out of service: Results from the Study to Assess Risk and Resilience in Servicemembers-Longitudinal Study (STARRS-LS). *JAMA Psychiatry*, in press. 
+
+2. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Under review. 
 
 ---
 
@@ -63,7 +67,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 2. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15993) *Microbial Ecology* (2022). 
 
-3. Bittleston, LS\*, **Wolock CJ\***, Maeda J, Infante V, Ané JM, Pierce NE, Pringle A. [Canivorous *Nepenthes* Pitchers with Less Acidic Fluid House Nitrogen-Fixing Bacteria.](https://journals.asm.org/doi/10.1128/aem.00812-23) *Applied and Environmental Microbiology* (2023). \*Equal contribution
+3. Bittleston, LS\*, **Wolock CJ\***, Maeda J, Infante V, Ané JM, Pierce NE, Pringle A. [Canivorous *Nepenthes* Pitchers with Less Acidic Fluid House Nitrogen-Fixing Bacteria.](https://journals.asm.org/doi/10.1128/aem.00812-23) *Applied and Environmental Microbiology* (2023).
 
 ---
 
