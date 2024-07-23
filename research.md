@@ -8,8 +8,9 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 * Nonparametric and semiparametric statistics
 * Survival analysis
 * Machine learning
-* Methods for epidemiological data
-* Methods for health system data
+* Statistical epidemiology
+* Variable importance
+* Applications in mental health
 
 ---
 
