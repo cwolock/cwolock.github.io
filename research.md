@@ -10,7 +10,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 * Machine learning
 * Statistical epidemiology
 * Variable importance
-* Applications in mental health
+* Applications in mental health and infectious diseases
 
 ---
 
