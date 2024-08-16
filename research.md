@@ -38,7 +38,7 @@ An asterisk (\*) denotes equal contribution.
 
 ### Mental health
 
-1. Kennedy CJ, Kearns JC, Geraci JC, Gildea SM, Hwang IH, King AJ, Liu H, Luedtke A, Marx BP, Panini S, Petukhova MV, Sampson NA, Smoller JW, **Wolock CJ**, Zainal HN, Stein MB, Ursano RJ, Kessler RC (2024). Predicting post-transition suicides among U.S. Army soldiers transitioning out of service: Results from the Study to Assess Risk and Resilience in Servicemembers-Longitudinal Study (STARRS-LS). *JAMA Psychiatry*, in press. 
+1. Kennedy CJ, Kearns JC, Geraci JC, Gildea SM, Hwang IH, King AJ, Liu H, Luedtke A, Marx BP, Panini S, Petukhova MV, Sampson NA, Smoller JW, **Wolock CJ**, Zainal HN, Stein MB, Ursano RJ, Kessler RC. Predicting post-transition suicides among U.S. Army soldiers transitioning out of service: Results from the Study to Assess Risk and Resilience in Servicemembers-Longitudinal Study (STARRS-LS). *JAMA Psychiatry* (2024), in press. 
 
 2. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Under review. 
 
