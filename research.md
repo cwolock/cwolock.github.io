@@ -7,9 +7,9 @@ is_research: true
 I am broadly interested in statistics and biostatistics with a current focus on:
 * Nonparametric and semiparametric statistics
 * Survival analysis
-* Machine learning
 * Statistical epidemiology
-* Variable importance
+* Variable importance and machine learning
+* Analysis of health system data
 * Applications in mental health and infectious diseases
 
 ---
@@ -36,11 +36,13 @@ An asterisk (\*) denotes equal contribution.
 
 ---
 
-### Mental health
+### Analysis of health system data
 
 1. Kennedy CJ, Kearns JC, Geraci JC, Gildea SM, Hwang IH, King AJ, Liu H, Luedtke A, Marx BP, Panini S, Petukhova MV, Sampson NA, Smoller JW, **Wolock CJ**, Zainal HN, Stein MB, Ursano RJ, Kessler RC. Predicting post-transition suicides among U.S. Army soldiers transitioning out of service: Results from the Study to Assess Risk and Resilience in Servicemembers-Longitudinal Study (STARRS-LS). *JAMA Psychiatry* (2024), in press. 
 
 2. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Invited revision, *Journal of Biomedical Informatics*. 
+
+3. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. Post-acute healthcare demands following SARS-CoV-2 infection in children and adolescents: a hospital-specific investigation through heterogeneous transfer learning. Invited revision, *Patterns*.
 
 ---
 
