@@ -22,6 +22,8 @@ nav:
    link: "research"
  - name: "Teaching"
    link: "teaching"
+ - name: "Software"
+   link: "software"
  - name: "CV"
    link: "cjw_cv.pdf"
 
