@@ -34,6 +34,12 @@ An asterisk (\*) denotes equal contribution.
 
 6. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) Under review. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
 
+7. **Wolock CJ\***, Yan J\*, Ning Y, Chen Y. Transfer learning for model-free variable importance. In preparation. 
+
+8. **Wolock CJ**, Zhang B, Zhang D, Wu Q, Chen Y. Estimating causal effects from electronic health records data with underreported exposure. In preparation. 
+
+9. Morenz E\*, **Wolock CJ\***, Rotnitzky A, Carone M. Debiased machine learning for survival functionals based on left-truncated right-censored data. In preparation.
+
 ---
 
 ### Analysis of health system data
@@ -84,5 +90,7 @@ An asterisk (\*) denotes equal contribution.
 3. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, **Wolock CJ**, Zhao E, Kingston H, Zolandz T. [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) *Forensic Science International: Reports* (2022). 
 
 4. Kohn MD, **Wolock CJ**, Poulson IJ, Fernando ND. [A meta-analysis of postoperative outcomes of patients with and without chronic hepatitis C undergoing primary total hip or knee arthroplasty](https://eor.bioscientifica.com/view/journals/eor/8/4/EOR-22-0117.xml) *EFORT Open Reviews* (2023).
+
+5. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. In preparation. 
 
 ---
