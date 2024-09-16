@@ -7,10 +7,10 @@ is_research: true
 
 I am dedicated to developing usable statistical software. I've created or contributed to the following R packages. 
 
-* `survML`: Tools for flexible survival analysis using machine learning (`cre`, `aut`). ([website](https://github.com/cwolock/survML))
+* `survML`: Tools for flexible survival analysis using machine learning (`cre`, `aut`). ([website](https://cwolock.github.io/survML/))
 
-* `SimEngine`: Framework for reproducible statistical simulations in R (`aut`). ([website](https://github.com/Avi-Kenny/SimEngine))
+* `SimEngine`: Framework for reproducible statistical simulations in R (`aut`). ([website](https://avi-kenny.github.io/SimEngine/))
 
-* `rigr`: Regression, inference, and general data analysis tools for R (`aut`). ([website](https://github.com/statdivlab/rigr))
+* `rigr`: Regression, inference, and general data analysis tools for R (`aut`). ([website](https://statdivlab.github.io/rigr/))
 
-* `vimp`: Inference on algorithm-agnostic variable importance (`ctb`). ([website](https://github.com/bdwilliamson/vimp))
+* `vimp`: Inference on algorithm-agnostic variable importance (`ctb`). ([website](https://bdwilliamson.github.io/vimp/))
