@@ -6,9 +6,9 @@ is_research: true
 ## Research interests
 I am broadly interested in statistics and biostatistics with a current focus on:
 * Nonparametric and semiparametric statistics
-* Survival analysis
+* Machine learning in survival analysis
 * Statistical epidemiology
-* Variable importance and machine learning
+* Variable importance
 * Analysis of health system data
 * Applications in mental health and infectious diseases
 
