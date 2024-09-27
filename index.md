@@ -44,7 +44,6 @@ layout: default
             <hr>
             <b>Awards, Honors, Fellowships</b>
             <br/>
-            <br/>
             <ul>
             <li><b>2023</b> Thomas R. Fleming Excellence in Biostatistics Award, University of Washington</li>
             <li><b>2020</b> Donovan J. Thompson Award, University of Washington</li>
@@ -54,7 +53,6 @@ layout: default
             <li><b>2014</b> Microbial Sciences Initiative Research Fellowship, Harvard University</li>
             <li><b>2013</b> John Harvard Scholar, Harvard University</li>
             </ul>
-            <hr>
             <hr>
             <b>Contact/Links</b>
             <br/>
