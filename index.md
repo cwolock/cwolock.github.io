@@ -40,8 +40,21 @@ layout: default
             <p>I'm a postdoctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, working with Dr. Yong Chen. I received my PhD in August 2023 from the Department of Biostatistics at the University of Washington, where I was advised by Dr. Marco Carone and Dr. Noah Simon. Before my PhD, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish, and worked as a research associate at the Institute for Genomic Medicine at Columbia University.
             <br/>
             <br/>
-            My research is focused on 
-             nonparametric statistics, machine learning, and survival analysis. I am especially interested in statistical epidemiology and methods for assessing variable importance. Prior and ongoing collaborative projects include work in mental health, infectious diseases, and genomic medicine. My dissertation work was supported by an NSF Graduate Research Fellowship. 
+            My research is focused on nonparametric statistics, machine learning, and survival analysis. I am especially interested in statistical epidemiology and methods for assessing variable importance. Prior and ongoing collaborative projects include work in mental health, infectious diseases, and genomic medicine.
+            <hr>
+            <b>Awards, Honors, Fellowships</b>
+            <br/>
+            <br/>
+            <ul>
+            <li><b>2023</b> Thomas R. Fleming Excellence in Biostatistics Award, University of Washington</li>
+            <li><b>2020</b> Donovan J. Thompson Award, University of Washington</li>
+            <li><b>2020-2023</b> NSF Graduate Research Fellowship</li>
+            <li><b>2015</b> Phi Beta Kappa, Harvard University</li>
+            <li><b>2014</b> Herchel Smith Research Fellowship, Harvard University</li>
+            <li><b>2014</b> Microbial Sciences Initiative Research Fellowship, Harvard University</li>
+            <li><b>2013</b> John Harvard Scholar, Harvard University</li>
+            </ul>
+            <hr>
             <hr>
             <b>Contact/Links</b>
             <br/>
