@@ -46,9 +46,9 @@ An asterisk (\*) denotes equal contribution.
 
 1. Kennedy CJ, Kearns JC, Geraci JC, Gildea SM, Hwang IH, King AJ, Liu H, Luedtke A, Marx BP, Panini S, Petukhova MV, Sampson NA, Smoller JW, **Wolock CJ**, Zainal HN, Stein MB, Ursano RJ, Kessler RC. [Predicting Suicides Among US Army Soldiers After Leaving Active Service](https://doi.org/10.1001/jamapsychiatry.2024.2744). *JAMA Psychiatry* (2024). 
 
-2. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Invited revision, *Journal of Biomedical Informatics*. 
+2. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. Post-acute healthcare demands following SARS-CoV-2 infection in children and adolescents: a hospital-specific investigation through heterogeneous transfer learning. *Patterns* (accepted).
 
-3. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. Post-acute healthcare demands following SARS-CoV-2 infection in children and adolescents: a hospital-specific investigation through heterogeneous transfer learning. Invited revision, *Patterns*.
+3. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Invited revision, *Journal of Biomedical Informatics*. 
 
 ---
 
