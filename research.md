@@ -28,7 +28,7 @@ An asterisk (\*) denotes equal contribution.
 
 3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://doi.org/10.1080/10618600.2024.2304070) *Journal of Computational and Graphical Statistics* (2024). ([preprint](https://arxiv.org/abs/2211.03031)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/stack_supplementary)) 
 
-4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://arxiv.org/abs/2311.12726) *Biometrika* (accepted). ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
+4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://arxiv.org/abs/2311.12726) In press, *Biometrika* (2024). ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
 
 5. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review, *Journal of Statistical Software*. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
@@ -46,7 +46,7 @@ An asterisk (\*) denotes equal contribution.
 
 1. Kennedy CJ, Kearns JC, Geraci JC, Gildea SM, Hwang IH, King AJ, Liu H, Luedtke A, Marx BP, Panini S, Petukhova MV, Sampson NA, Smoller JW, **Wolock CJ**, Zainal HN, Stein MB, Ursano RJ, Kessler RC. [Predicting Suicides Among US Army Soldiers After Leaving Active Service](https://doi.org/10.1001/jamapsychiatry.2024.2744). *JAMA Psychiatry* (2024). 
 
-2. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. Post-acute healthcare demands following SARS-CoV-2 infection in children and adolescents: a hospital-specific investigation through heterogeneous transfer learning. *Patterns* (accepted).
+2. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. Post-acute healthcare demands following SARS-CoV-2 infection in children and adolescents: a hospital-specific investigation through heterogeneous transfer learning. In press, *Patterns* (2024).
 
 3. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) Invited revision, *Journal of Biomedical Informatics*. 
 
