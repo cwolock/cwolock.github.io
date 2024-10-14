@@ -28,7 +28,7 @@ An asterisk (\*) denotes equal contribution.
 
 3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://doi.org/10.1080/10618600.2024.2304070) *Journal of Computational and Graphical Statistics* (2024). ([preprint](https://arxiv.org/abs/2211.03031)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/stack_supplementary)) 
 
-4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://arxiv.org/abs/2311.12726) Invited revision, *Biometrika*. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
+4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://arxiv.org/abs/2311.12726) *Biometrika* (accepted). ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
 
 5. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review, *Journal of Statistical Software*. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
