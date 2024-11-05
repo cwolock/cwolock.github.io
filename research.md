@@ -28,11 +28,11 @@ An asterisk (\*) denotes equal contribution.
 
 3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://doi.org/10.1080/10618600.2024.2304070) ***Journal of Computational and Graphical Statistics*** (2024). ([preprint](https://arxiv.org/abs/2211.03031)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/stack_supplementary)) 
 
-4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://arxiv.org/abs/2311.12726) In press, ***Biometrika*** (2024). ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
+4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://doi.org/10.1093/biomet/asae061) ***Biometrika*** (2024). ([preprint](https://arxiv.org/abs/2311.12726)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) 
 
-5. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review, ***Journal of Statistical Software***. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
+5. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) Invited revision, ***Epidemiology***. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
 
-6. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) Under review, ***Epidemiology***. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
+6. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review, ***Journal of Statistical Software***. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
 7. **Wolock CJ\***, Yan J\*, Ning Y, Chen Y. Transfer learning for model-free variable importance. In preparation. 
 
