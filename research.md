@@ -34,11 +34,11 @@ An asterisk (\*) denotes equal contribution.
 
 6. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review, ***Journal of Statistical Software***. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
-7. **Wolock CJ\***, Yan J\*, Ning Y, Chen Y. Transfer learning for model-free variable importance. In preparation. 
+7. Morenz E\*, **Wolock CJ\***, Carone M. [Debiased machine learning for survival functionals based on left-truncated right-censored data.](https://doi.org/10.48550/arXiv.2411.09017)
 
-8. **Wolock CJ**, Zhang B, Zhang D, Wu Q, Chen Y. Estimating causal effects from electronic health records data with underreported exposure. In preparation. 
+8. **Wolock CJ\***, Yan J\*, Ning Y, Chen Y. Transfer learning for model-free variable importance. In preparation. 
 
-9. Morenz E\*, **Wolock CJ\***, Rotnitzky A, Carone M. Debiased machine learning for survival functionals based on left-truncated right-censored data. In preparation.
+9. **Wolock CJ**, Zhang B, Zhang D, Wu Q, Chen Y. Estimating causal effects from electronic health records data with underreported exposure. In preparation. 
 
 ---
 
