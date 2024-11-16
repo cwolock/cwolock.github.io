@@ -48,7 +48,7 @@ An asterisk (\*) denotes equal contribution.
 
 2. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. [A latent transfer learning method for estimating hospital-specific post-acute healthcare demands following SARS-CoV-2 infection.](https://doi.org/10.1016/j.patter.2024.101079) ***Patterns*** (2024).
 
-3. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1101/2024.04.29.24306260) ***Journal of Biomedical Informatics*** (in press). 
+3. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1016/j.jbi.2024.104750) ***Journal of Biomedical Informatics*** (2024). ([preprint](https://doi.org/10.1101/2024.04.29.24306260)) 
 
 ---
 
