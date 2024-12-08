@@ -50,6 +50,8 @@ An asterisk (\*) denotes equal contribution.
 
 3. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1016/j.jbi.2024.104750) ***Journal of Biomedical Informatics*** (2024). ([preprint](https://doi.org/10.1101/2024.04.29.24306260)) 
 
+4. Zhang D, Zhang B, Wang H, Lu Y, **Wolock CJ**, Wang L, Schuemie M, Hripcsak G, Chen Y. Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in real-world data with application to quantifying the impact of pandemic on racial/ethnic differences. Under review, ***The Lancet Digital Health***.
+
 ---
 
 ### Genomic medicine
