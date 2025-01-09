@@ -78,7 +78,7 @@ An asterisk (\*) denotes equal contribution.
 
 2. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15993) ***Microbial Ecology*** (2022). 
 
-3. Bittleston, LS\*, **Wolock CJ\***, Maeda J, Infante V, Ané JM, Pierce NE, Pringle A. [Canivorous *Nepenthes* Pitchers with Less Acidic Fluid House Nitrogen-Fixing Bacteria.](https://journals.asm.org/doi/10.1128/aem.00812-23) ***Applied and Environmental Microbiology*** (2023).
+3. Bittleston, LS\*, **Wolock CJ\***, Maeda J, Infante V, Ané JM, Pierce NE, Pringle A. [Carnivorous *Nepenthes* Pitchers with Less Acidic Fluid House Nitrogen-Fixing Bacteria.](https://journals.asm.org/doi/10.1128/aem.00812-23) ***Applied and Environmental Microbiology*** (2023).
 
 ---
 
@@ -94,5 +94,7 @@ An asterisk (\*) denotes equal contribution.
 4. Kohn MD, **Wolock CJ**, Poulson IJ, Fernando ND. [A meta-analysis of postoperative outcomes of patients with and without chronic hepatitis C undergoing primary total hip or knee arthroplasty](https://eor.bioscientifica.com/view/journals/eor/8/4/EOR-22-0117.xml) ***EFORT Open Reviews*** (2023).
 
 5. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. In preparation. 
+
+6. Hoffman KL, Marshall G, Frivold C, ..., **Wolock CJ**, ..., Gilbert PB, Naleway AL, Chu HY, Carone M. Correlates of Protection Against SARS-CoV-2 Infection in Children. In preparation. 
 
 ---
