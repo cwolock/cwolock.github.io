@@ -93,7 +93,7 @@ An asterisk (\*) denotes equal contribution.
 
 4. Kohn MD, **Wolock CJ**, Poulson IJ, Fernando ND. [A meta-analysis of postoperative outcomes of patients with and without chronic hepatitis C undergoing primary total hip or knee arthroplasty](https://eor.bioscientifica.com/view/journals/eor/8/4/EOR-22-0117.xml) ***EFORT Open Reviews*** (2023).
 
-5. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. In preparation. 
+5. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. Under review, **American Journal of Epidemiology**. 
 
 6. Hoffman KL, Marshall G, Frivold C, ..., **Wolock CJ**, ..., Gilbert PB, Naleway AL, Chu HY, Carone M. Correlates of Protection Against SARS-CoV-2 Infection in Children. In preparation. 
 
