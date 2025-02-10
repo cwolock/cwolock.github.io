@@ -16,7 +16,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ## Papers
 
-An asterisk (\*) denotes equal contribution.
+An asterisk (\*) denotes equal contribution. [CV](https://cwolock.github.io/cjw_cv.pdf)
 
 ---
 
