@@ -26,7 +26,7 @@ An asterisk (\*) denotes equal contribution.
 
 2. Chen YT, Williamson BD, Okonek T, **Wolock CJ**, Spieker AJ, Hee Wai TY, Hughes JP, Emerson SS, Willis AD. [`rigr`: Regression, Inference, and General Data Analysis Tools in R.](https://joss.theoj.org/papers/10.21105/joss.04847) ***The Journal of Open Source Software*** (2022). ([R package](https://github.com/statdivlab/rigr))
 
-3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://doi.org/10.1080/10618600.2024.2304070) ***Journal of Computational and Graphical Statistics*** (2024). ([preprint](https://arxiv.org/abs/2211.03031)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/stack_supplementary)) 
+3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://doi.org/10.1080/10618600.2024.2304070) ***Journal of Computational and Graphical Statistics*** (2024). ([preprint](https://arxiv.org/abs/2211.03031)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/stack_supplementary)) ([slides](https://cwolock.github.io/stacking_slides.pdf))
 
 4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://doi.org/10.1093/biomet/asae061) ***Biometrika*** (2024). ([preprint](https://arxiv.org/abs/2311.12726)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) ([slides](https://cwolock.github.io/survival_vim_slides.pdf))
 
