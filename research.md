@@ -28,7 +28,7 @@ An asterisk (\*) denotes equal contribution.
 
 3. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://doi.org/10.1080/10618600.2024.2304070) ***Journal of Computational and Graphical Statistics*** (2024). ([preprint](https://arxiv.org/abs/2211.03031)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/stack_supplementary)) ([slides](https://cwolock.github.io/stacking_slides.pdf))
 
-4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://doi.org/10.1093/biomet/asae061) ***Biometrika*** (2024). ([preprint](https://arxiv.org/abs/2311.12726)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) ([slides](https://cwolock.github.io/survival_vim_slides.pdf))
+4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://doi.org/10.1093/biomet/asae061) ***Biometrika*** (2025). ([preprint](https://arxiv.org/abs/2311.12726)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) ([slides](https://cwolock.github.io/survival_vim_slides.pdf))
 
 5. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) Invited revision, ***Epidemiology***. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
 
