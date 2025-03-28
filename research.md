@@ -32,7 +32,7 @@ An asterisk (\*) denotes equal contribution.
 
 5. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) Invited revision, ***Epidemiology***. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
 
-6. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Under review, ***The R Journal***. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
+6. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Invited revision, ***The R Journal***. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
 7. Morenz E\*, **Wolock CJ\***, Carone M. [Debiased machine learning for survival functionals based on left-truncated right-censored data.](https://doi.org/10.48550/arXiv.2411.09017)
 
@@ -83,7 +83,6 @@ An asterisk (\*) denotes equal contribution.
 ---
 
 ### Other scientific collaborations
-
 
 1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT. [Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation.](https://doi.org/10.1038/nature14589) ***Nature*** (2015).
 
