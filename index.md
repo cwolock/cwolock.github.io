@@ -41,6 +41,9 @@ layout: default
             <br/>
             <br/>
             My research is focused on nonparametric statistics, machine learning, and survival analysis. I am especially interested in statistical epidemiology and methods for assessing variable importance. Prior and ongoing collaborative projects include work in mental health, infectious diseases, and genomic medicine.
+            <br/>
+            <br/>
+            In July 2025, I will join the Department of Biostatistics and Computational Biology at the University of Rochester as an assistant professor. 
             <hr>
             <b>Awards, Honors, Fellowships</b>
             <br/>
