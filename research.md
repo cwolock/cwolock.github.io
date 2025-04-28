@@ -30,7 +30,7 @@ An asterisk (\*) denotes equal contribution.
 
 4. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [Assessing variable importance in survival analysis using machine learning.](https://doi.org/10.1093/biomet/asae061) ***Biometrika*** (2025). ([preprint](https://arxiv.org/abs/2311.12726)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/surv_vim_supplementary)) ([slides](https://cwolock.github.io/survival_vim_slides.pdf))
 
-5. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) To appear in ***Epidemiology***. ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
+5. **Wolock CJ\***, Jacob S\*, Weil AA, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://arxiv.org/abs/2407.04214) To appear in ***Epidemiology*** (2025). ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
 
 6. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) Invited revision, ***The R Journal***. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
@@ -92,7 +92,7 @@ An asterisk (\*) denotes equal contribution.
 
 4. Kohn MD, **Wolock CJ**, Poulson IJ, Fernando ND. [A meta-analysis of postoperative outcomes of patients with and without chronic hepatitis C undergoing primary total hip or knee arthroplasty.](https://doi.org/10.1530/eor-22-0117) ***EFORT Open Reviews*** (2023).
 
-5. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. Under review, **American Journal of Epidemiology**. 
+5. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. Under review, **AJE Advances: Research in Epidemiology**. 
 
 6. Hoffman KL, Marshall G, Frivold C, ..., **Wolock CJ**, ..., Gilbert PB, Naleway AL, Chu HY, Carone M. Correlates of Protection Against SARS-CoV-2 Infection in Children. In preparation. 
 
