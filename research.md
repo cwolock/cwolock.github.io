@@ -8,8 +8,6 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 * Nonparametric and semiparametric statistics
 * Machine learning in survival analysis
 * Statistical epidemiology
-* Variable importance
-* Analysis of health system data
 * Applications in mental health and infectious diseases
 
 ---
@@ -42,15 +40,21 @@ An asterisk (\*) denotes equal contribution.
 
 ---
 
-### Analysis of health system data
+### Infectious diseases
+
+1. Frivold C, Cox SN, Starita L, ..., **Wolock CJ**, ..., Englund JA, Naleway AL, Chu HY. Correlates of Risk of Respiratory Syncytial Virus Disease: A Prospective Cohort Study. Invited revision, ***Nature Communications***.
+
+2. Carone M, **Wolock CJ**, Olivas-Martinez A, Rotnitzy A, Gilbert PB. Immune Correlates and Vaccine Immunobridging: Statistical Innovations, Challenges and Opportunities. Invited revision, ***The Journal of Infectious Diseases***.
+
+3. Hoffman KL, Marshall G, Frivold C, ..., **Wolock CJ**, ..., Naleway AL, Chu HY, Carone M. Correlates of Protection Against SARS-CoV-2 Infection in Children. In preparation. 
+
+---
+
+### Mental health
 
 1. Kennedy CJ, Kearns JC, Geraci JC, Gildea SM, Hwang IH, King AJ, Liu H, Luedtke A, Marx BP, Panini S, Petukhova MV, Sampson NA, Smoller JW, **Wolock CJ**, Zainal HN, Stein MB, Ursano RJ, Kessler RC. [Predicting Suicides Among US Army Soldiers After Leaving Active Service.](https://doi.org/10.1001/jamapsychiatry.2024.2744) ***JAMA Psychiatry*** (2024). 
 
-2. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. [A latent transfer learning method for estimating hospital-specific post-acute healthcare demands following SARS-CoV-2 infection.](https://doi.org/10.1016/j.patter.2024.101079) ***Patterns*** (2024).
-
-3. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1016/j.jbi.2024.104750) ***Journal of Biomedical Informatics*** (2024). ([preprint](https://doi.org/10.1101/2024.04.29.24306260)) 
-
-4. Zhang D, Zhang B, Wang H, Lu Y, **Wolock CJ**, Wang L, Schuemie M, Hripcsak G, Chen Y. Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in real-world data with application to quantifying the impact of pandemic on racial/ethnic differences. Under review, ***The Lancet Digital Health***.
+2. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1016/j.jbi.2024.104750) ***Journal of Biomedical Informatics*** (2024). ([preprint](https://doi.org/10.1101/2024.04.29.24306260)) 
 
 ---
 
@@ -92,8 +96,10 @@ An asterisk (\*) denotes equal contribution.
 
 4. Kohn MD, **Wolock CJ**, Poulson IJ, Fernando ND. [A meta-analysis of postoperative outcomes of patients with and without chronic hepatitis C undergoing primary total hip or knee arthroplasty.](https://doi.org/10.1530/eor-22-0117) ***EFORT Open Reviews*** (2023).
 
-5. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. Under review, **AJE Advances: Research in Epidemiology**. 
+5. Wu Q, Pajor NM, Lu Y, **Wolock CJ**, Tong J, Lorman V, Johnson KB, Moore JH, Forrest CB, Asch DA, Chen Y. [A latent transfer learning method for estimating hospital-specific post-acute healthcare demands following SARS-CoV-2 infection.](https://doi.org/10.1016/j.patter.2024.101079) ***Patterns*** (2024).
 
-6. Hoffman KL, Marshall G, Frivold C, ..., **Wolock CJ**, ..., Gilbert PB, Naleway AL, Chu HY, Carone M. Correlates of Protection Against SARS-CoV-2 Infection in Children. In preparation. 
+6. Zhang D, Zhang B, Wang H, Lu Y, **Wolock CJ**, Wang L, Schuemie M, Hripcsak G, Chen Y. Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in real-world data with application to quantifying the impact of pandemic on racial/ethnic differences. Invited revision, ***npj Digital Medicine***.
+
+7. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. Invited revision, ***AJE Advances: Research in Epidemiology***. 
 
 ---
