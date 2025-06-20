@@ -60,7 +60,7 @@ layout: default
             <b>Contact/Links</b>
             <br/>
             <br/>
-            cwolock[at]upenn[dot]edu
+            charles_wolock[at]urmc[dot]rochester[dot]edu
             <ul>
             <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
             <li><a href = "https://github.com/cwolock">GitHub</a></li>
