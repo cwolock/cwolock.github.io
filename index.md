@@ -48,6 +48,10 @@ layout: default
             University of Rochester
             <hr>
             charles_wolock[at]urmc.rochester.edu
+            <br/>
+            <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a>
+            <br/>
+            <a href = "https://github.com/cwolock">GitHub</a>
             </p>
         </div>
     <div class="second-column"> 
@@ -73,15 +77,6 @@ layout: default
             <li><b>2014</b> Herchel Smith Research Fellowship, Harvard University</li>
             <li><b>2014</b> Microbial Sciences Initiative Research Fellowship, Harvard University</li>
             <li><b>2013</b> John Harvard Scholar, Harvard University</li>
-            </ul>
-            <hr>
-            <b>Contact/Links</b>
-            <br/>
-            <br/>
-            Email: charles_wolock[at]urmc[dot]rochester[dot]edu
-            <ul>
-            <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
-            <li><a href = "https://github.com/cwolock">GitHub</a></li>
             </ul>
             <hr>
             </p> 
