@@ -34,7 +34,7 @@ layout: default
 <div class="row">
         <div class="first-column">
             <img src="prof_pic.jpg" style="width:250px">
-             <p>
+             <p style="text-align: center">
             Assistant Professor
             <br/>
             Department of Biostatistics and Computational Biology
