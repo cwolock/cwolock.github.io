@@ -46,6 +46,12 @@ hr {
     padding: 5px 0 5px 0;
     margin-left: 20px;
 }
+.navbar-ul .nav-item:not(:last-child) {
+    padding-right: 35px;
+}
+.navbar-ul .nav-item:not(:last-child) ::after {
+    content: "\00B7";
+}
 .nav-list {
     list-style-type: none;
     margin: 0 5px 0 10px;
