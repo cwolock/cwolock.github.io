@@ -32,7 +32,7 @@ layout: default
 </style>
 
 <div class="row">
-        <div class="first-column">
+        <div style="text-align: center" class="first-column">
             <img id="profile" style="text-align: center" src="prof_pic.jpg" style="width:250px">
             <style type="text/css">
               #profile {
