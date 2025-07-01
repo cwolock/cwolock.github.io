@@ -33,7 +33,13 @@ layout: default
 
 <div class="row">
         <div class="first-column">
-            <img style="text-align: center" src="prof_pic.jpg" style="width:250px">
+            <img id="profile" style="text-align: center" src="prof_pic.jpg" style="width:250px">
+            <style type="text/css">
+              #profile {
+              display: block;
+              margin-left: auto;
+              margin-right: auto }
+            </style>
              <p style="text-align: center">
             Assistant Professor
             <br/>
