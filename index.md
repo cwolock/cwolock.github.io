@@ -40,6 +40,8 @@ layout: default
             Department of Biostatistics and Computational Biology
             <br/>
             University of Rochester
+            <hr>
+            charles_wolock[at]urmc[dot]rochester[dot]edu
             </p>
         </div>
     <div class="second-column"> 
