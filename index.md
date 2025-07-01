@@ -34,16 +34,16 @@ layout: default
 <div class="row">
         <div class="first-column">
             <img src="prof_pic.jpg" style="width:250px">
-            
-        </div>
-    <div class="second-column"> 
-            <p>
+             <p>
             Assistant Professor
             <br/>
             Department of Biostatistics and Computational Biology
             <br/>
             University of Rochester
-            <hr>
+            </p>
+        </div>
+    <div class="second-column"> 
+            <p>
              <b>About</b>
             <br/>
             <br/>
