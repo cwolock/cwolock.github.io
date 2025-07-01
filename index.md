@@ -43,6 +43,7 @@ layout: default
             <hr>
              <b>About</b>
             <br/>
+            <br/>
             I am an assistant professor in the Department of Biostatistics and Computational Biology at the University of Rochester. I received my PhD in 2023 from the Department of Biostatistics at the University of Washington, where I was advised by Dr. Marco Carone and Dr. Noah Simon. From 2023 to 2025, I was a postdoctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, working with Dr. Yong Chen. Before my PhD, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish, and worked as a research associate at the Institute for Genomic Medicine at Columbia University.
             <br/>
             <br/>
