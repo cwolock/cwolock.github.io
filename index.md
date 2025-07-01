@@ -33,7 +33,7 @@ layout: default
 
 <div class="row">
         <div class="first-column">
-            <img src="prof_pic.jpg" style="width:250px">
+            <img style="text-align: center" src="prof_pic.jpg" style="width:250px">
              <p style="text-align: center">
             Assistant Professor
             <br/>
