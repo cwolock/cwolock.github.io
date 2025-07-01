@@ -88,10 +88,12 @@ An asterisk (\*) denotes equal contribution.
 
 21. He H, Li L, Zhang D, Wang H, Zhang B, Lu Y, **Wolock CJ**, Shen Y, Alemayehu D, Chu H, Schuemie M, Suchard M, Ryan P, Hripcsak G, Xu H, Zou J, Asch DA, Chen Y. RWE-Transformer: A pretrained transformer model with negative control outcomes for debiased real-world evidence. Under review, ***Nature Communications***. 
 
+22. Hoffman KL, Marshall G, Frivold C, Acker Z, Arnould IS, Babu TM, Barnes SR, Briggs-Hagen M, Casto A, Clark E, Cox SN, Drummond M, Ehmen B, Englund JA, Gamboa L, Greninger AL, Grindstaff S, Grioni H, Han P, Hatchie T, Hollcroft M, Kuntz JL, Lo NK, Lockwood CM, McAllister KD, McCormick CJ, MacMillan MP, Midgley CM, Nguyen D, Plumb ID, Reed JC, Reich S, Roychoudhury P, Schmidt M, Starita LM, Stone J, Varga A, Weil AA, **Wolock CJ**, Yetz N, Gilbert PB, Naleway AL, Chu HY, Carone M. Immune Correlates of Risk for SARS-CoV-2 Infection in Children. Under review, ***Nature Medicine***.
+
 ---
 
 ### Commentaries and editorials
 
-1. Coates MM, **Wolock CJ**, Arah O. Re: Pre-diagnostic exposures and cancer survival: Can a meaningful causal estimand be specified? To appear in ***Epidemiology***.
+1. Coates MM, **Wolock CJ**, Arah OA. Re: Pre-diagnostic exposures and cancer survival: Can a meaningful causal estimand be specified? To appear in ***Epidemiology***.
 
 2. Carone M, **Wolock CJ**, Olivas-Martinez A, Rotnitzy A, Gilbert PB. Immune Correlates and Vaccine Immunobridging: Statistical Innovations, Challenges and Opportunities. Invited revision, ***The Journal of Infectious Diseases***.

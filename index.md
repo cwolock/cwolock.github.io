@@ -37,13 +37,16 @@ layout: default
             
         </div>
     <div class="second-column"> 
-            <p>I'm a postdoctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, working with Dr. Yong Chen. I received my PhD in August 2023 from the Department of Biostatistics at the University of Washington, where I was advised by Dr. Marco Carone and Dr. Noah Simon. Before my PhD, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish, and worked as a research associate at the Institute for Genomic Medicine at Columbia University.
+            <p>Assistant Professor
+            Department of Biostatistics and Computational Biology
+            University of Rochester
+            <hr>
+             <b>About</b>
+            <br/>
+            I am an assistant professor in the Department of Biostatistics and Computational Biology at the University of Rochester. I received my PhD in 2023 from the Department of Biostatistics at the University of Washington, where I was advised by Dr. Marco Carone and Dr. Noah Simon. From 2023 to 2025, I was a postdoctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, working with Dr. Yong Chen. Before my PhD, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish, and worked as a research associate at the Institute for Genomic Medicine at Columbia University.
             <br/>
             <br/>
             My research is focused on nonparametric statistics, machine learning, and survival analysis. I am especially interested in statistical epidemiology and methods for assessing variable importance. Prior and ongoing collaborative projects include work in mental health, infectious diseases, and genomic medicine.
-            <br/>
-            <br/>
-            In July 2025, I will join the Department of Biostatistics and Computational Biology at the University of Rochester as an assistant professor. 
             <hr>
             <b>Awards, Honors, Fellowships</b>
             <br/>
@@ -60,7 +63,7 @@ layout: default
             <b>Contact/Links</b>
             <br/>
             <br/>
-            charles_wolock[at]urmc[dot]rochester[dot]edu
+            Email: charles_wolock[at]urmc[dot]rochester[dot]edu
             <ul>
             <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
             <li><a href = "https://github.com/cwolock">GitHub</a></li>
