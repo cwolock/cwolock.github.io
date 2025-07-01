@@ -41,9 +41,9 @@ layout: default
               margin-right: auto }
             </style>
              <p style="text-align: center">
-            Assistant Professor
+            Assistant Professor,
             <br/>
-            Department of Biostatistics and Computational Biology
+            Department of Biostatistics and Computational Biology,
             <br/>
             University of Rochester
             <hr>
