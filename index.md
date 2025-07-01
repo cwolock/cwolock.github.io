@@ -47,7 +47,7 @@ layout: default
             <br/>
             University of Rochester
             <hr>
-            charles_wolock[at]urmc[dot]rochester[dot]edu
+            charles_wolock[at]urmc.rochester.edu
             </p>
         </div>
     <div class="second-column"> 
