@@ -47,9 +47,10 @@ layout: default
             <br/>
             University of Rochester
             <hr>
-            charles_wolock[at]urmc.rochester.edu
+            c.wolock[at]rochester.edu
             <br/>
             <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a> &bull; <a href = "https://github.com/cwolock">GitHub</a>
+            <hr>
             </p>
         </div>
     <div class="second-column"> 
