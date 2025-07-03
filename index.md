@@ -58,6 +58,9 @@ layout: default
              <b>About</b>
             <br/>
             <br/>
+            <i>Pronouns: he/him</i> &bull; <i>Preferred name: Charlie</i>
+            <br/>
+            <br/>
             I am an assistant professor in the Department of Biostatistics and Computational Biology at the University of Rochester. 
             <br/>
             <br/>
