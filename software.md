@@ -10,13 +10,13 @@ I am dedicated to developing usable statistical software. I've created or contri
 ---
 
 ![GitHub R package
-version](https://img.shields.io/github/r-package/v/cwolock/survML)
+version](https://img.shields.io/github/r-package/v/cwolock/survML?scale=2)
 [![CRAN
-status](https://www.r-pkg.org/badges/version/survML)](https://CRAN.R-project.org/package=survML)
-![GitHub](https://img.shields.io/github/license/cwolock/survML)
+status](https://www.r-pkg.org/badges/version/survML?scale=1)](https://CRAN.R-project.org/package=survML)
+![GitHub](https://img.shields.io/github/license/cwolock/survML?scale=1)
 [![R-CMD-check](https://github.com/cwolock/survML/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/cwolock/survML/actions/workflows/R-CMD-check.yml)
 [![Codecov test
-coverage](https://codecov.io/gh/cwolock/survML/branch/main/graph/badge.svg)](https://app.codecov.io/gh/cwolock/survML?branch=main)
+coverage](https://codecov.io/gh/cwolock/survML/branch/main/graph/badge.svg?scale=1)](https://app.codecov.io/gh/cwolock/survML?branch=main)
 
 #### `survML`
 
