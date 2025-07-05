@@ -8,7 +8,7 @@ is_research: true
 I am dedicated to developing usable statistical software. I've created or contributed to the following R packages. 
 
 ---
-
+<!---
 ![GitHub R package
 version](https://img.shields.io/github/r-package/v/cwolock/survML?scale=2)
 [![CRAN
@@ -17,25 +17,25 @@ status](https://www.r-pkg.org/badges/version/survML?scale=1)](https://CRAN.R-pro
 [![R-CMD-check](https://github.com/cwolock/survML/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/cwolock/survML/actions/workflows/R-CMD-check.yml)
 [![Codecov test
 coverage](https://codecov.io/gh/cwolock/survML/branch/main/graph/badge.svg?scale=1)](https://app.codecov.io/gh/cwolock/survML?branch=main)
+-->
 
-#### `survML`
+### `survML`
 
 `cre`, `aut`
 
 `survML` contains a variety of tools for flexible survival analysis using machine learning. Specific functionality includes conditional survival function estimation using off-the-shelf machine learning algorithms, nonparametric variable importance for survival analysis, and covariate-adjusted survival curves using current status data. The package website can be found [here](https://cwolock.github.io/survML/). 
 
 ---
-
-<!-- badges: start -->
+<!---
   ![GitHub R package version](https://img.shields.io/github/r-package/v/Avi-Kenny/SimEngine)
   [![CRAN status](https://www.r-pkg.org/badges/version/SimEngine)](https://CRAN.R-project.org/package=SimEngine)
   ![GitHub](https://img.shields.io/github/license/Avi-Kenny/SimEngine)
   [![R-CMD-check](https://github.com/Avi-Kenny/SimEngine/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/Avi-Kenny/SimEngine/actions/workflows/R-CMD-check.yml)
   [![Codecov test coverage](https://codecov.io/gh/Avi-Kenny/SimEngine/branch/master/graph/badge.svg)](https://app.codecov.io/gh/Avi-Kenny/SimEngine?branch=master)
   [![](https://cranlogs.r-pkg.org/badges/SimEngine)](https://CRAN.R-project.org/package=SimEngine)
-<!-- badges: end -->
+-->
 
-#### `SimEngine`
+### `SimEngine`
 
 `aut`
 
@@ -43,12 +43,13 @@ coverage](https://codecov.io/gh/cwolock/survML/branch/main/graph/badge.svg?scale
 
 ---
 
+<!---
 [![CRAN
 status](https://www.r-pkg.org/badges/version/rigr)](https://CRAN.R-project.org/package=rigr)
 [![R-CMD-check](https://github.com/statdivlab/rigr/workflows/R-CMD-check/badge.svg)](https://github.com/statdivlab/rigr/actions)
-[![codecov](https://codecov.io/gh/statdivlab/rigr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/statdivlab/rigr)
+[![codecov](https://codecov.io/gh/statdivlab/rigr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/statdivlab/rigr) --> 
 
-#### `rigr`
+### `rigr`
 
 `aut`
 
@@ -56,6 +57,7 @@ status](https://www.r-pkg.org/badges/version/rigr)](https://CRAN.R-project.org/p
 
 ---
 
+<!---
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/vimp)](https://cran.r-project.org/package=vimp)
 [![Travis-CI Build Status](https://travis-ci.com/bdwilliamson/vimp.svg?branch=master)](https://travis-ci.com/bdwilliamson/vimp)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/bdwilliamson/vimp?branch=master&svg=true)](https://ci.appveyor.com/project/bdwilliamson/vimp)
@@ -63,8 +65,9 @@ status](https://www.r-pkg.org/badges/version/rigr)](https://CRAN.R-project.org/p
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/vimp)](https://CRAN.R-project.org/package=vimp)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+-->
 
-#### `vimp`
+### `vimp`
 
 `ctb`
 
