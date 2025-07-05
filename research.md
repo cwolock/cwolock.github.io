@@ -44,7 +44,7 @@ An asterisk (\*) denotes equal contribution.
 
 ---
 
-### Scientific collaborations
+### Scientific applications
 
 1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT. [Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation.](https://doi.org/10.1038/nature14589) ***Nature*** (2015).
 
