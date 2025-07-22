@@ -80,7 +80,7 @@ An asterisk (\*) denotes equal contribution.
 
 17. **Wolock CJ**, Williamson BD, Shortreed SM, Simon GE; Coleman KJ, Yeargans R, Ahmedani BK, Daida Y, Lynch FL, Rossom RC, Ziebell RA, Cruz M, Wellman RD, Coley RY. [Importance of variables from different time frames for predicting self-harm using health system data.](https://doi.org/10.1016/j.jbi.2024.104750) ***Journal of Biomedical Informatics*** (2024). ([preprint](https://doi.org/10.1101/2024.04.29.24306260)) 
 
-18. Zhang D, Zhang B, Wang H, Lu Y, **Wolock CJ**, Wang L, Schuemie M, Hripcsak G, Chen Y. Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in real-world data with application to quantifying the impact of pandemic on racial/ethnic differences. To appear in ***npj Digital Medicine***.
+18. Zhang D, Zhang B, Wang H, Lu Y, **Wolock CJ**, Wang L, Schuemie M, Hripcsak G, Chen Y. [Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in real-world data with application to quantifying the impact of pandemic on racial/ethnic differences.](https://doi.org/10.1038/s41746-025-01821-w) ***npj Digital Medicine*** (2025).
 
 19. Frivold C, Cox SN, Starita L, Babu TM, Hoffman KL, Carone M, Lockwood CM, Kuntz JL, Mularski RA, Varga A, Han PD, Reed J, Piliper EA, Mohamed Bakhash SAK, Greninger AL, Clark E, Stone J, Grindstaff S, Boisvert CL, Yetz N, Lo NK, Hatchie TL, Marshall G, **Wolock CJ**, Feldstein LR, Weil AA, Englund JA, Naleway AL, Chu HY. Correlates of Risk of Respiratory Syncytial Virus Disease: A Prospective Cohort Study. To appear in ***Nature Communications***.
 
