@@ -66,7 +66,7 @@ An asterisk (\*) denotes equal contribution.
 
 10. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://doi.org/10.1038/s41562-021-01267-6) ***Nature Human Behaviour*** (2022). ([code](https://github.com/cwolock/elephant_fam_match))
 
-11. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://doi.org/10.1111/1462-2920.15993) ***Microbial Ecology*** (2022). 
+11. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [*Sarracenia* pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://doi.org/10.1111/1462-2920.15993) ***Microbial Ecology*** (2022). 
 
 12. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, **Wolock CJ**, Zhao E, Kingston H, Zolandz T. [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) ***Forensic Science International: Reports*** (2022). 
 
