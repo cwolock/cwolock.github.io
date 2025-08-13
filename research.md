@@ -97,3 +97,5 @@ An asterisk (\*) denotes equal contribution.
 1. Coates MM, **Wolock CJ**, Arah OA. Re: Pre-diagnostic exposures and cancer survival: Can a meaningful causal estimand be specified? To appear in ***Epidemiology***.
 
 2. Carone M, **Wolock CJ**, Olivas-Martinez A, Rotnitzy A, Gilbert PB. Immune Correlates and Vaccine Immunobridging: Statistical Innovations, Challenges and Opportunities. Invited revision, ***The Journal of Infectious Diseases***.
+
+---
