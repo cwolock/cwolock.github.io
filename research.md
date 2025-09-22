@@ -30,7 +30,7 @@ An asterisk (\*) denotes equal contribution.
 
 5. **Wolock CJ\***, Jacob S\*, Bennett JC, Elias-Warren A, O'Hanlon J, Kenny A, Jewell NP, Rotnitzky A, Cole SR, Weil AA, Chu HY, Carone M. [Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome.](https://doi.org/10.1097/EDE.0000000000001882) ***Epidemiology*** (2025). ([preprint](https://arxiv.org/abs/2407.04214)) ([R package](https://github.com/cwolock/survML)) ([code](https://github.com/cwolock/currstat_CIR_supplementary)) 
 
-6. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://arxiv.org/abs/2403.05698) To appear in ***The R Journal***. ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
+6. Kenny A, **Wolock CJ**. [SimEngine: A Modular Framework for Statistical Simulations in R.](https://doi.org/10.32614/RJ-2025-010) ***The R Journal*** (2025). ([preprint](https://arxiv.org/abs/2403.05698)) ([R package](https://github.com/Avi-Kenny/SimEngine)) ([code](https://github.com/Avi-Kenny/SimEngine/tree/master/paper))
 
 7. Morenz E\*, **Wolock CJ\***, Carone M. [Debiased machine learning for survival functionals based on left-truncated right-censored data.](https://doi.org/10.48550/arXiv.2411.09017)
 
