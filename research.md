@@ -82,7 +82,7 @@ An asterisk (\*) denotes equal contribution.
 
 18. Zhang D, Zhang B, Wang H, Lu Y, **Wolock CJ**, Hu W, Wang L, Hripcsak G, Chen Y. [Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in real-world data with application to quantifying the impact of pandemic on racial/ethnic differences.](https://doi.org/10.1038/s41746-025-01821-w) ***npj Digital Medicine*** (2025).
 
-19. Frivold C, Cox SN, Starita L, Babu TM, Hoffman KL, Carone M, Lockwood CM, Kuntz JL, Mularski RA, Varga A, Han PD, Reed J, Piliper EA, Mohamed Bakhash SAK, Greninger AL, Clark E, Stone J, Grindstaff S, Boisvert CL, Yetz N, Lo NK, Hatchie TL, Marshall G, **Wolock CJ**, Feldstein LR, Weil AA, Englund JA, Naleway AL, Chu HY. Correlates of Risk of Respiratory Syncytial Virus Disease: A Prospective Cohort Study. To appear in ***Nature Communications***.
+19. Frivold C, Cox SN, Starita L, Babu TM, Hoffman KL, Carone M, Lockwood CM, Kuntz JL, Mularski RA, Varga A, Han PD, Reed J, Piliper EA, Mohamed Bakhash SAK, Greninger AL, Clark E, Stone J, Grindstaff S, Boisvert CL, Yetz N, Lo NK, Hatchie TL, Marshall G, **Wolock CJ**, Feldstein LR, Weil AA, Englund JA, Naleway AL, Chu HY. [Correlates of Risk of Respiratory Syncytial Virus Disease: A Prospective Cohort Study.](https://doi.org/10.1038/s41467-025-63434-x) ***Nature Communications*** (2025).
 
 20. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. Invited revision, ***AJE Advances: Research in Epidemiology***. 
 
