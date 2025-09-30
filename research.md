@@ -84,7 +84,7 @@ An asterisk (\*) denotes equal contribution.
 
 19. Frivold C, Cox SN, Starita L, Babu TM, Hoffman KL, Carone M, Lockwood CM, Kuntz JL, Mularski RA, Varga A, Han PD, Reed J, Piliper EA, Mohamed Bakhash SAK, Greninger AL, Clark E, Stone J, Grindstaff S, Boisvert CL, Yetz N, Lo NK, Hatchie TL, Marshall G, **Wolock CJ**, Feldstein LR, Weil AA, Englund JA, Naleway AL, Chu HY. [Correlates of Risk of Respiratory Syncytial Virus Disease: A Prospective Cohort Study.](https://doi.org/10.1038/s41467-025-63434-x) ***Nature Communications*** (2025).
 
-20. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. Invited revision, ***AJE Advances: Research in Epidemiology***. 
+20. Wollum A, Ralph L, Grossman D, **Wolock CJ**, Moseson H. Evaluating a double list experiment to measure lifetime self-managed abortion attempts in the United States: analysis of a nationally representative cross-sectional survey in 2017. To appear in ***AJE Advances: Research in Epidemiology***. 
 
 21. He H, Li L, Zhang D, Wang H, Zhang B, Lu Y, **Wolock CJ**, Shen Y, Alemayehu D, Chu H, Schuemie M, Suchard M, Ryan P, Hripcsak G, Xu H, Zou J, Asch DA, Chen Y. RWE-Transformer: A pretrained transformer model with negative control outcomes for debiased real-world evidence. Under review, ***Nature Communications***. 
 
